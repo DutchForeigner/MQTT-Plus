@@ -1,4 +1,4 @@
-# BunkerM - MQTT Made Easy ✅  
+# MQTT-Plus - MQTT Made Easy ✅  
 <p align="center">
   <a href="https://bunkeriot.github.io/BunkerM/">
     <img
@@ -7,13 +7,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.reddit.com/r/BunkerM/"><img src="https://img.shields.io/badge/Join our-Community-orange?logo=reddit&logoColor=white" alt="Reddit Community"></a>
-  <a href="https://www.linkedin.com/in/mehdi-idrissi/"><img src="https://img.shields.io/badge/Follow me-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
-  <a href="https://x.com/BunkerIoT"><img src="https://img.shields.io/badge/Follow me-X (Twitter)-black?logo=x&logoColor=white" alt="X (Twitter) Profile"></a>
+  
 </p>
-
-
-[![Support BunkerM](/screenshots/SupportBM.jpg)](https://www.paypal.com/donate/?hosted_button_id=ZFEJHMWKU2Q4Q)
 
 ## 📋 Table of Contents
 
@@ -49,14 +44,6 @@ BunkerM is an open-source, containerized MQTT management solution that bundles t
 ![Dashboard Screenshot](docs/assets/images/dashboard.png)
 
 This all-in-one solution features dynamic security controls, real-time monitoring, client activity logging, and cloud integration capabilities. The entire stack - Mosquitto broker, backend services, and frontend UI - comes pre-configured in Docker containers for easy deployment and management.
-
-<a id="need-custom-mqtt-features-reach-out-today"></a>
-## 💼 Need Custom MQTT Features? Reach Out Today!
-
-> **Website**: https://bunkeriot.com  
-> **Email me at**: support@bunkeriot.com  
-> **Let's connect**!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-idrissi/)  
 
 <a id="solution-overview"></a>
 ## 🏗️ Solution Overview
@@ -303,37 +290,9 @@ This module provides a real-time list of currently connected clients on a node, 
 | Windows | ✓ | ✓ | ✓ |
 | White Labeling | ✗ | ✗ | ✓ |
 
-<a id="community-vs-paid-versions"></a>
-## 💰 Community vs Paid versions
 
-My mission with BunkerM is to democratize IoT by making MQTT management accessible to everyone. The Community Version is designed to be lightweight, easy to use, and completely free, offering essential features for individuals and small projects.
-
-However, to sustain the development of the Community Version and continue delivering value, I'm introducing Pro and Enterprise Versions. These versions are tailored for businesses and advanced users, offering additional features like:
-
-- Local authentication (no internet required)  
-- Fine-grained RBAC (Role-Based Access Control)
-- LDAP and SSO integrations
-- Advanced monitoring and analytics
-- Enterprise-grade support
-
-The revenue from the Pro and Enterprise versions will directly support the development and maintenance of the free Community Version. This way, I can keep BunkerM accessible to everyone while also meeting the needs of larger organizations.
-
-If the open-source community shows enough support, I may consider making the Pro version free as well. Your feedback and contributions are invaluable in shaping the future of BunkerM!
-
-<a id="support-bunkerm-project"></a>
-## ❤️ Support BunkerM Project
 
 BunkerM is an open-source project dedicated to making MQTT broker management accessible and secure for everyone. As a solo developer, I've poured countless hours into creating a comprehensive solution that combines the power of Mosquitto with an intuitive management interface, all while keeping it free for non-commercial use.
-
-Your donation helps support:
-* Continuous development of new features
-* Maintenance and bug fixes
-* Documentation improvements
-* Community support
-
-Every contribution, no matter the size, helps keep this project active and growing. If you find BunkerM useful in your projects or learning journey, consider supporting its development. Together, we can make IoT and MQTT technology more accessible to developers worldwide.
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ZFEJHMWKU2Q4Q)
 
 Thank you for supporting open source! 🙏
 
@@ -344,4 +303,3 @@ This project is licensed under the Apache License 2.0.
 You are free to use, modify, and distribute this software, even for commercial purposes, under the terms of the license.
 
 📜 Full license details: LICENSE  
-💼 For any inquiries, feel free to reach out: support@bunkeriot.com
